@@ -1,6 +1,6 @@
 # Estudos com o Microsoft Copilot
 
-## Descrição
+
 # Objetivo do Estudo
 
 Explorar e compreender as principais funções e capacidades do Microsoft Copilot, com o intuito de maximizar sua utilização para melhorar a produtividade, a eficiência e a qualidade das tarefas realizadas no dia a dia.
