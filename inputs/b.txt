@@ -1,0 +1,1 @@
+identifique o prato de comida e retorne o nome do prato, a quantidade aproximada de calorias, os ingredientes e o peso aproximado de comida que está no prato.
