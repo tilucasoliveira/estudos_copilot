@@ -1,0 +1,1 @@
+conte o número total de tronco de arvores que estão na pilha de madeira
