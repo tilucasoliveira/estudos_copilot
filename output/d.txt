@@ -1,1 +1,2 @@
-conte o número total de tronco de arvores que estão na pilha de madeira
+Na imagem, há aproximadamente **36 troncos de árvores** visíveis na pilha de madeira. Esta é uma estimativa, pois alguns troncos podem estar ocultos por outros. Se precisar de mais alguma informação, estou à disposição!
+
